@@ -7,3 +7,5 @@
   <p>github comit -m "deskripsi file" </p>
   <p>upload ss an di git hub</p>
   <p>lalu salin link github lalu kirim ke Tugas Latihan 2 B.Pemrograman</p>
+
+![gambar](ss1.png)
